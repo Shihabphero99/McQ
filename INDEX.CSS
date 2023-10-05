@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: skyblue;
+}
+.heading button{
+    margin: 55px;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    margin: 10px;
+    background: pink;
+    padding:15px ;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Varela Round', sans-serif;
+}
+.question{
+    margin: 15px;
+}
+.q h4{
+    margin: 5px 5px;
+    
+}
+.q p{
+    margin: 7px;
+    font-size: 22px;
+    color: black;
+}
+.q form{
+    font-size: 22px;
+    margin-left: 60px;
+    padding: 15px;
+}
+
+/* button a kaj kora lagbe */
+.button{
+    width: 207px;
+    height: 43px;
+    margin: 10px;
+    background: black;
+    color: white;
+    border-radius: 10px solid black;
+}
+.btn{
+    text-align: center;
+}
+
